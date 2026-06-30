@@ -1,0 +1,10 @@
+litellm
+langchain
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+langchain-community
+google-cloud-secret-manager
+google-cloud-functions
+functions-framework
+chromadb
