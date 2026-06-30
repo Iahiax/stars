@@ -8,3 +8,4 @@ google-cloud-secret-manager
 google-cloud-functions
 functions-framework
 chromadb
+llama-cpp-python
